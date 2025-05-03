@@ -1,0 +1,78 @@
+[
+    {
+        "name": "mug",
+        "description": "A very nice coffee mug I have on my desk."
+    },
+    {
+        "name": "pen",
+        "description": "A very special pen I will use to sign my first contract."
+    },
+    {
+        "name": "laptop",
+        "description": "My LG Gram 17 laptop. A gift from my friend Richard."
+    },
+    {
+        "name": "notebook",
+        "description": "A leather-bound notebook for jotting down ideas and notes."
+    },
+    {
+        "name": "desk lamp",
+        "description": "An adjustable desk lamp to brighten my workspace."
+    },
+    {
+        "name": "wireless mouse",
+        "description": "A sleek wireless mouse for easier navigation."
+    },
+    {
+        "name": "keyboard",
+        "description": "A mechanical keyboard with backlit keys."
+    },
+    {
+        "name": "headphones",
+        "description": "Noise-canceling headphones for focused work."
+    },
+    {
+        "name": "calendar",
+        "description": "A wall calendar to keep track of appointments."
+    },
+    {
+        "name": "desk organizer",
+        "description": "A wooden desk organizer to keep stationery tidy."
+    },
+    {
+        "name": "coffee beans",
+        "description": "A bag of premium Arabica coffee beans."
+    },
+    {
+        "name": "phone charger",
+        "description": "A fast-charging cable for my smartphone."
+    },
+    {
+        "name": "USB drive",
+        "description": "A 128GB USB flash drive for data storage."
+    },
+    {
+        "name": "poster",
+        "description": "A motivational poster hanging on the wall."
+    },
+    {
+        "name": "plant",
+        "description": "A small succulent plant to add some greenery."
+    },
+    {
+        "name": "sticky notes",
+        "description": "Colorful sticky notes for reminders."
+    },
+    {
+        "name": "calculator",
+        "description": "A scientific calculator for complex computations."
+    },
+    {
+        "name": "clock",
+        "description": "A vintage alarm clock on my desk."
+    },
+    {
+        "name": "glasses",
+        "description": "My reading glasses for close-up work."
+    }
+]
